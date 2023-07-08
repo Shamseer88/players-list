@@ -2,7 +2,7 @@ const players = [
     {
         id: 1,
         name: 'David De Gea',
-        image: 'degea.jpg',
+        image: 'images/degea.jpg',
         position: 'Goalkeeper',
         country: 'Spain',
         summary: 'I don’t know who is the best goalkeeper in the world at the moment, but I want to be the best'
@@ -10,7 +10,7 @@ const players = [
     {
         id: 2,
         name: 'Tom Heaton',
-        image: 'to-heaton.jpg',
+        image: 'images/to-heaton.jpg',
         position: 'Goalkeeper',
         country: 'England',
         summary: 'I still feel I’ve got an awful lot to give and I’ve got the bit between my teeth'
@@ -18,7 +18,7 @@ const players = [
     {
         id: 3,
         name: 'Dean Henderson',
-        image: 'dean.jpeg',
+        image: 'images/dean.jpeg',
         position: 'Goalkeeper',
         country: 'England',
         summary: 'I work hard every single day to be a better version of myself. At the end of the day, the only competition I’ve got is myself'
@@ -26,7 +26,7 @@ const players = [
     {
         id: 4,
         name: 'Victor Lindelof',
-        image: 'lindelof.jpg',
+        image: 'images/lindelof.jpg',
         position: 'Defender',
         country: 'Sweden',
         summary: 'United are one of the biggest clubs in the world and always want to win titles. That’s also my goal'
@@ -34,7 +34,7 @@ const players = [
     {
         id: 5,
         name: 'Eric Bailly',
-        image: 'bailly.jpg',
+        image: 'images/bailly.jpg',
         position: 'Defender',
         country: 'Ivory Coast',
         summary: 'To play football at the highest level is all I have ever wanted to do'
@@ -42,7 +42,7 @@ const players = [
     {
         id: 6,
         name: 'Harry Maguire',
-        image: 'maguire.jpg',
+        image: 'images/maguire.jpg',
         position: 'Defender',
         country: 'England',
         summary: "It's an amazing club. It's a club I've always watched and I always looked up to when I was younger"
@@ -50,7 +50,7 @@ const players = [
     {
         id: 7,
         name: 'Lisandro Martinez',
-        image: 'lisandro.jpg',
+        image: 'images/lisandro.jpg',
         position: 'Defender',
         country: 'Argentina',
         summary: "I’ve worked so hard to get to this moment and, now that I’m here, I’m going to push myself even further"
@@ -58,7 +58,7 @@ const players = [
     {
         id: 8,
         name: 'Tyrell Malacia',
-        image: 'tyrel.jpg',
+        image: 'images/tyrel.jpg',
         position: 'Defender',
         country: 'Netherlands',
         summary: 'Whilst I know that I am still young and will continue to develop, I can promise the United fans that I will leave everything on'
@@ -66,7 +66,7 @@ const players = [
     {
         id: 9,
         name: 'Raphael Varane',
-        image: 'varane.jpg',
+        image: 'images/varane.jpg',
         position: 'Defender',
         country: 'France',
         summary: 'I came here because I wanted new emotions and it was exactly what I expected and bigger'
@@ -74,7 +74,7 @@ const players = [
     {
         id: 10,
         name: 'Diogo Dalot',
-        image: 'dalot.jpg',
+        image: 'images/dalot.jpg',
         position: 'Defender',
         country: 'Portugal',
         summary: 'I will give everything for this club, for this shirt and, hopefully, help the club to win. That’s the most important'
@@ -82,7 +82,7 @@ const players = [
     {
         id: 11,
         name: 'Luke Shaw',
-        image: 'shaw.jpg',
+        image: 'images/shaw.jpg',
         position: 'Defender',
         country: 'England',
         summary: "I’ve got the freedom to play and that gives me the confidence in what I want to do to help the team"
@@ -90,7 +90,7 @@ const players = [
     {
         id: 12,
         name: 'Alex Telles',
-        image: 'telles.jpg',
+        image: 'images/telles.jpg',
         position: 'Defender',
         country: 'Brazil',
         summary: "This is a once-in-a-lifetime opportunity. I’m going to give everything to fight for the club"
@@ -98,7 +98,7 @@ const players = [
     {
         id: 13,
         name: 'Mason Mount',
-        image: 'mount.jpg',
+        image: 'images/mount.jpg',
         position: 'Midfielder',
         country: 'England',
         summary: "I couldn’t be more excited for the seasons ahead and am ready for the hard work expected here"
@@ -106,7 +106,7 @@ const players = [
     {
         id: 14,
         name: 'Bruno Fernandes',
-        image: 'bruno.jpg',
+        image: 'images/bruno.jpg',
         position: 'Midfielder',
         country: 'Portugal',
         summary: "To play for United feels incredible. I can promise the fans I will give everything to help bring us success"
@@ -114,7 +114,7 @@ const players = [
     {
         id: 15,
         name: 'Anthony Martial',
-        image: 'martial.jpg',
+        image: 'images/martial.jpg',
         position: 'Forward',
         country: 'France',
         summary: "I love Manchester United, I love the fans, they give me a lot of joy"
@@ -122,7 +122,7 @@ const players = [
     {
         id: 16,
         name: 'Marcus Rashford',
-        image: 'rashford.jpg',
+        image: 'images/rashford.jpg',
         position: 'Forward',
         country: 'England',
         summary: "I have always been a United fan, so to be playing in the first team really is a dream come true"
